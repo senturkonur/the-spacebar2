@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eb6bbb6-c37e-4bd0-a7d9-cc909b1a4980" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Service/MarkDownHelper.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ArticleController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586704676079</updated>
-      <workItem from="1586704677501" duration="1850000" />
+      <workItem from="1586704677501" duration="2379000" />
     </task>
     <servers />
   </component>
@@ -101,6 +101,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="694" y="349" width="521" height="387" key="NewPhpClassDialog" timestamp="1586707074103">
+      <screen x="0" y="27" width="1920" height="1017" />
+    </state>
+    <state x="694" y="349" width="521" height="387" key="NewPhpClassDialog/0.27.1920.1017@0.27.1920.1017" timestamp="1586707074103" />
     <state x="623" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586706507976">
       <screen x="0" y="27" width="1920" height="1017" />
     </state>
