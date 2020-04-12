@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eb6bbb6-c37e-4bd0-a7d9-cc909b1a4980" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,26 @@
       <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
       <path value="$PROJECT_DIR$/vendor/knplabs/knp-markdown-bundle" />
       <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/vendor/php-http/stopwatch-plugin" />
+      <path value="$PROJECT_DIR$/vendor/php-http/client-common" />
+      <path value="$PROJECT_DIR$/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/vendor/php-http/logger-plugin" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/php-http/cache-plugin" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/nexylan/slack" />
+      <path value="$PROJECT_DIR$/vendor/nexylan/slack-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1aRiC8CCKrr6mk5h2B6Xa4CgYtn" />
@@ -93,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586704676079</updated>
-      <workItem from="1586704677501" duration="3191000" />
+      <workItem from="1586704677501" duration="3549000" />
     </task>
     <servers />
   </component>
@@ -105,9 +127,9 @@
       <screen x="0" y="27" width="1920" height="1017" />
     </state>
     <state x="694" y="349" width="521" height="387" key="NewPhpClassDialog/0.27.1920.1017@0.27.1920.1017" timestamp="1586707074103" />
-    <state x="623" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586707827021">
+    <state x="623" y="250" width="672" height="678" key="search.everywhere.popup" timestamp="1586708224161">
       <screen x="0" y="27" width="1920" height="1017" />
     </state>
-    <state x="623" y="250" width="672" height="678" key="search.everywhere.popup/0.27.1920.1017@0.27.1920.1017" timestamp="1586707827021" />
+    <state x="623" y="250" width="672" height="678" key="search.everywhere.popup/0.27.1920.1017@0.27.1920.1017" timestamp="1586708224161" />
   </component>
 </project>
